@@ -1,8 +1,15 @@
-# Test Your Code  
+# Test Your Python Code  
 
 ## Practicing Efficiency  
 
-As you write your own functions and classes, it is always a good idea to write tests for them. To *prove* your code works, you test it to ensure everything works as it should in response to all the input types you've designed it to receive.  
+#### Abstract  
+This is a small tutorial on how to test your Python code.  
+
+Level: Middle-Intermediate  
+
+## Introduction  
+
+In any language, as you write your own functions and classes, it is always a good idea to write tests for them. To *prove* your code works, you test it to ensure everything works as it should in response to all the input types you've designed it to receive.  
 
 Every programmer makes mistakes, so it's a good idea to that every programmer must test their code frquently. This way, they can catch problems before users run into them.  
 
