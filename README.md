@@ -53,6 +53,7 @@ while True:
     if last == 'q':
         exit()
         # can use "break" here instead of exit()
+        break # to stop the while loop
 
     formatted_name = get_formatted_name(first, last)
     print("\tFormatted name: " + formatted_name + ".")
